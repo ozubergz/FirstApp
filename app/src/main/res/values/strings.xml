@@ -2,4 +2,21 @@
     <string name="app_name">FirstApp</string>
     <string name="hello_world">Hello World!</string>
     <string name="ok">OK</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="create_account">create account</string>
+    <string name="checkbox_text">
+        I read and agree to
+        <font color="#4d375d">
+            Terms &amp; Conditions
+        </font>
+    </string>
+    <string name="account_text">
+        Already have an account?
+        <font color="#4d375d">
+            Sign in
+        </font>
+    </string>
 </resources>
